@@ -1,6 +1,6 @@
 ### Hi there, I'm Luân B. 👋
 
-Software engineer at [MoMo](https://momo.vn/), building large-scale payment and financial systems. I enjoy working across the stack — from distributed backend services to ML pipelines and build infrastructure.
+Software engineer at [MoMo](https://momo.vn/), building large-scale payment and financial systems. I enjoy working across the stack — from distributed backend services, DevOps & cloud infrastructure, to AI/ML pipelines and developer tooling.
 
 #### What I do
 
@@ -8,7 +8,7 @@ Software engineer at [MoMo](https://momo.vn/), building large-scale payment and 
 - **Platform & build engineering** — Bazel build systems, CI/CD pipelines, developer tooling
 - **DevOps & Cloud** — Kubernetes, GCP, AWS, CI/CD automation at scale
 - **DevSecOps** — security integration across the development lifecycle
-- **ML & data science** — deep learning for medical imaging, reinforcement learning research
+- **AI/ML, data science & CS** — deep learning for medical imaging, reinforcement learning research
 
 #### Tech I work with
 
