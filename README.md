@@ -14,9 +14,11 @@ Software engineer at [MoMo](https://momo.vn/), building large-scale payment and 
 
 **Languages:** Java, Python, JavaScript/TypeScript
 **Backend:** Vert.x, Quarkus, Node.js
-**Data & ML:** TensorFlow, pandas, scikit-learn
-**Cloud & DevOps:** Kubernetes, Google Cloud, AWS, Terraform, ArgoCD
-**Infrastructure:** Bazel, Maven, Docker, Kafka, Redis, Cassandra
+**AI/ML & Data:** TensorFlow, pandas, scikit-learn
+**Cloud & DevOps:** Kubernetes, Google Cloud, AWS, Terraform, ArgoCD, Helm, Prometheus, Grafana
+**CI/CD:** Jenkins, GitHub Actions, Bazel, Gradle, Maven
+**Security:** SonarQube, Trivy, Snyk, OWASP ZAP, Vault
+**Infrastructure:** Docker, Kafka, Redis, Cassandra, Linux
 **Databases:** Oracle, MySQL, ScyllaDB
 
 #### Currently
